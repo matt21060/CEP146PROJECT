@@ -1,0 +1,6 @@
+=== ROUGH SCRIPT OUTLINE ===
+- Intro: What is Open Source and traditional licenses (MIT/GPL).
+- Problem: Cloud companies like AWS poaching code for free profits.
+- Case Studies: MongoDB (SSPL), HashiCorp (BSL), and Redis (2024 changes).
+- Community Backlash: Creation of forks like OpenTofu and Valkey.
+- Conclusion: The future of software moving to neutral foundations.
