@@ -10,7 +10,7 @@ Sayed Hassani
 
 Topic Summary: Our project will explore the open source movement and how it has changed from the beginning until 2026. Additionally we will explore licensing changes and how business have use these licensing to help promote the open source movement.
 
-Youtube Link:
+Youtube Link:  https://youtu.be/j3vZ0nAG4nI
 
 Each Members Role: 
 
