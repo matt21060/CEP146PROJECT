@@ -1,0 +1,15 @@
+text
+=== FINAL 2-PERSON PRESENTATION SCRIPT ===
+
+Speaker 1 (0:00 - 1:00): [Introduction & Traditional OSS]
+Welcome to our presentation on the Open Source Movement and its recent licensing transformations. For decades, software development thrived on a simple premise: share your code, collaborate globally, and innovate faster. Early software licensing fell into two clean buckets: Permissive licenses (like MIT and Apache 2.0), which let anyone use code for any reason, and Copyleft licenses (like the GPL), which mandated that modifications stay open. Together, these frameworks powered the modern internet, giving rise to Linux, Apache, and Kubernetes. But recently, a fundamental shift occurred, and pure open source is facing an economic crisis.
+
+Speaker 2 (1:00 - 2:15): [The Catalyst: Cloud Poaching]
+The driving force behind this change boils down to "Cloud Poaching." Companies spent millions of dollars and years of engineering resources building incredible open-source tools. However, giant cloud hyperscalers—most notably Amazon Web Services—took this free, permissively licensed code, packaged it as managed, profitable cloud services, and generated billions of dollars. Because they were utilizing free software, they underpriced the original creators while contributing negligible code or funding back to the upstream projects. This completely destabilized traditional open-source monetization models, forcing vendor firms into defensive economic positions.
+
+Speaker 1 (2:15 - 3:15): [Case Studies: Source-Available Era]
+To survive, major software vendors systematically abandoned true open source. They pivoted to "Source-Available" licenses. Under these terms, you can still view and modify the code for internal use, but competitive commercial cloud hosting is explicitly banned. Consider three major case studies. First, MongoDB introduced the Server Side Public License (SSPL) in 2018, forcing cloud providers to open-source their entire stack if they want to sell Mongo as a service. Next, HashiCorp moved Terraform to the Business Source License (BSL) in 2023. Finally, in 2024, Redis abandoned its BSD roots for a dual SSPL and RSALv2 model.
+
+Speaker 2 (3:15 - 4:30): [Community Counter-Forks & Conclusion]
+The Open Source Initiative does not recognize these new licenses as true open source because they restrict fields of endeavor. This sparked severe community backlash and caused massive project splits, known as "Forks." When a corporation closes its licensing doors, neutral foundations and independent developers take the last open version of the repository and branch out. When Terraform closed its ecosystem, the community built OpenTofu under the Linux Foundation. When Redis altered its terms, engineers from AWS and Google united to form Valkey. In conclusion, software development is separating into corporate-controlled source-available tools and community-owned foundation projects. Thank you for listening.
+Use code with caution.
